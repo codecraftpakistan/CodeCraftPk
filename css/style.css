@@ -1083,7 +1083,8 @@ body{
     }
 
     .header .logo img{
-        width: 20%;
+        width: auto;
+        
         height: 3rem;
         top: 0;
         left: 0;
