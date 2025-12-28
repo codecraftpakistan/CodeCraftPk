@@ -1,6 +1,6 @@
 import { motion } from 'framer-motion';
 import { ArrowRight, Play } from 'lucide-react';
-import { Button } from '@/components/ui/button';
+import { Button } from '@/components/UI/button';
 
 const Hero = () => {
   const scrollToSection = (href: string) => {
